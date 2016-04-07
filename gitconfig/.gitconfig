@@ -1,0 +1,5 @@
+[user]
+  name = Christophe COUTURIER
+  email = christophe.couturier@telecom-bretagne.eu
+[credential]
+	helper = cache --timeout=3600
