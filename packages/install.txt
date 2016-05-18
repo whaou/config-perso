@@ -1,0 +1,17 @@
+aptitude \
+vlc nautilus-dropbox \
+geany geany-plugin-addons geany-plugin-git-changebar geany-plugin-latex geany-plugin-shiftcolumn  geany-plugin-spellcheck geany-plugin-vc geany-plugin-py geany-plugin-codenav \
+vim meld kdiff3 konsole \
+git git-doc git-gui gitk gitweb \
+thunderbird thunderbird-locale-fr xul-ext-lightning thunderbird-gnome-support \
+libpython3-all-dev \
+texlive-full gedit-latex-plugin texlive-fonts-recommended latex-beamer  texlive-pictures texlive-latex-extra imagemagick \
+okular \
+wireshark traceroute \
+# gnome 
+gnome-tweak-tool \
+
+# enfants
+gcompris gcompris-sound-fr gnucap\
+
+
