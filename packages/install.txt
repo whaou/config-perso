@@ -10,6 +10,7 @@ okular \
 wireshark traceroute \
 # gnome 
 gnome-tweak-tool \
+vpnc network-manager-vpnc-gnome \
 
 # enfants
 gcompris gcompris-sound-fr gnucap\
