@@ -8,6 +8,13 @@ libpython3-all-dev \
 texlive-full gedit-latex-plugin texlive-fonts-recommended latex-beamer  texlive-pictures texlive-latex-extra imagemagick \
 okular \
 wireshark traceroute \
+playonlinux \
+
+pdfsam\
+#pdfchain \
+#pdfmod \
+
+
 # gnome 
 gnome-tweak-tool \
 vpnc network-manager-vpnc-gnome \
