@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel>
+<xbel folded="no" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" xmlns:kdepriv="http://www.kde.org/kdepriv" dbusName="konsole">
+ <bookmark href="file:///home/ccouturi">
+  <title>ccouturi</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="inode-directory"/>
+   </metadata>
+  </info>
+  <desc/>
+ </bookmark>
+ <bookmark href="file:///home/ccouturi/boulot/telecom.Bretagne/recherche/corridor/publi/papier.overleaf">
+  <title>papier-CORRIDOR-Overleaf</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="inode-directory"/>
+   </metadata>
+  </info>
+  <desc/>
+ </bookmark>
+ <bookmark href="file:///home/ccouturi/boulot/telecom.Bretagne/enseignement/RES/res302/2016-spring">
+  <title>2016-spring</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="inode-directory"/>
+   </metadata>
+  </info>
+  <desc/>
+ </bookmark>
+ <bookmark href="ssh://web7shell@prod1.web.telecom-bretagne.eu">
+  <title>TEST-r302  - web7shell sur prod1.web.telecom-bretagne.eu</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="utilities-terminal"/>
+   </metadata>
+  </info>
+  <desc/>
+ </bookmark>
+ <bookmark href="ssh://web14ccouturi@prod1.web.telecom-bretagne.eu">
+  <title>r302 - web14ccouturi sur prod1.web.telecom-bretagne.eu</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="utilities-terminal"/>
+   </metadata>
+  </info>
+  <desc/>
+ </bookmark>
+ <bookmark href="ssh://web13ccouturi@prod1.web.telecom-bretagne.eu">
+  <title>r328 - web13ccouturi sur prod1.web.telecom-bretagne.eu</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="utilities-terminal"/>
+   </metadata>
+  </info>
+  <desc/>
+ </bookmark>
+ <bookmark href="file:///home/ccouturi/Dropbox/cv/v0.7-CDI_Telecom.Bretagne/overleaf">
+  <title>cv - overleaf</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="inode-directory"/>
+   </metadata>
+  </info>
+  <desc/>
+ </bookmark>
+ <bookmark href="file:///home/ccouturi/tmp">
+  <title>tmp (home)</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="inode-directory"/>
+   </metadata>
+  </info>
+  <desc/>
+ </bookmark>
+ <bookmark href="file:///home/ccouturi/boulot/telecom.Bretagne/enseignement/RES/res302/2016-spring/ressources/c2w-sibyl/src/c2w/scripts">
+  <title>c2w-scripts</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="inode-directory"/>
+   </metadata>
+  </info>
+  <desc/>
+ </bookmark>
+ <bookmark href="file:///home/ccouturi/boulot/telecom.Bretagne/enseignement/RES/res302/2016-spring/ressources/c2w-impl-r328-s16">
+  <title>c2w-impl-r328-s16</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="inode-directory"/>
+   </metadata>
+  </info>
+  <desc/>
+ </bookmark>
+ <bookmark href="file:///home/ccouturi/boulot/telecom.Bretagne/recherche/ekohub">
+  <title>ekohub</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="inode-directory"/>
+   </metadata>
+  </info>
+  <desc/>
+ </bookmark>
+ <bookmark href="ssh://web25ccouturi@prod1.web.telecom-bretagne.eu">
+  <title>phd-rennes web25ccouturi sur prod1.web.telecom-bretagne.eu</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="utilities-terminal"/>
+   </metadata>
+  </info>
+  <desc/>
+ </bookmark>
+ <bookmark href="ssh://vnc.svc.enst-bretagne.fr">
+  <title>vnc.svc.enst-bretagne.fr</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="utilities-terminal"/>
+   </metadata>
+  </info>
+  <desc/>
+ </bookmark>
+</xbel>
