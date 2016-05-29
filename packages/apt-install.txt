@@ -12,7 +12,8 @@ wireshark traceroute \
 playonlinux winbind \
 unrar \
 virtualbox \
-
+gimp gimp-gmic gimp-gutenprint gimp-help-fr gimp-plugin-registry \
+inkscape \
 pdfsam\
 
 
