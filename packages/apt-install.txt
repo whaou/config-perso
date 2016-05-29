@@ -1,6 +1,6 @@
 aptitude \
 openjdk-9-jdk-headless openjdk-9-jdk \
-vlc nautilus-dropbox \
+vlc nautilus-dropbox owncloud-client nautilus-owncloud \
 geany geany-plugin-addons geany-plugin-git-changebar geany-plugin-latex geany-plugin-shiftcolumn  geany-plugin-spellcheck geany-plugin-vc geany-plugin-py geany-plugin-codenav \
 vim meld kdiff3 konsole zim \
 subversion git git-doc git-gui gitk gitweb \
