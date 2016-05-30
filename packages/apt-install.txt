@@ -15,7 +15,7 @@ virtualbox \
 gimp gimp-gmic gimp-gutenprint gimp-help-fr gimp-plugin-registry \
 inkscape \
 pdfsam\
-
+cups krb5-user libpam-krb5 kstart \
 
 
 # gnome 
