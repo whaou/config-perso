@@ -3,7 +3,7 @@ openjdk-9-jdk-headless openjdk-9-jdk \
 vlc nautilus-dropbox owncloud-client nautilus-owncloud \
 geany geany-plugin-addons geany-plugin-git-changebar geany-plugin-latex geany-plugin-shiftcolumn  geany-plugin-spellcheck geany-plugin-vc geany-plugin-py geany-plugin-codenav \
 vim meld kdiff3 konsole zim \
-subversion git git-doc git-gui gitk gitweb \
+subversion git git-doc git-gui gitk gitweb gitg \
 thunderbird thunderbird-locale-fr xul-ext-lightning thunderbird-gnome-support \
 libpython3-all-dev python3-pip \
 texlive-full gedit-latex-plugin texlive-fonts-recommended latex-beamer  texlive-pictures texlive-latex-extra imagemagick \
@@ -16,7 +16,9 @@ gimp gimp-gmic gimp-gutenprint gimp-help-fr gimp-plugin-registry \
 inkscape \
 pdfsam\
 cups krb5-user libpam-krb5 kstart \
-
+linphone \
+#freeplane libjortho-freeplane-java \
+vym \
 
 # gnome 
 gnome-tweak-tool \
@@ -24,6 +26,8 @@ vpnc network-manager-vpnc-gnome \
 
 #java => remove openjdk-9-jre
 openjdk-8-jre \
+
+
 
 
 # enfants
