@@ -1,3 +1,8 @@
 # alternate mappings for "page up" and "page down" to search the history
 "\e[5~": history-search-backward
 "\e[6~": history-search-forward
+
+# CTRL + arrows to navigate from word to word
+"\e[1;5C": forward-word
+"\e[1;5D": backward-word
+
