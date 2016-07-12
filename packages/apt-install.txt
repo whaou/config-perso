@@ -19,6 +19,8 @@ pdfsam \
 cups krb5-user libpam-krb5 kstart cifs-utils \
 linphone \
 nmap \
+gnuplot \
+xournal \
 # freeplane libjortho-freeplane-java \
 # vym \
 
