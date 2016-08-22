@@ -7,7 +7,7 @@ subversion git git-doc git-gui gitk gitweb gitg \
 thunderbird thunderbird-locale-fr xul-ext-lightning thunderbird-gnome-support \
 libpython3-all-dev python3-pip \
 python-pip \
-texlive-full gedit-latex-plugin texlive-fonts-recommended latex-beamer  texlive-pictures texlive-latex-extra imagemagick \
+texlive-full gedit-latex-plugin texlive-fonts-recommended latex-beamer  texlive-pictures texlive-latex-extra imagemagick biber \
 okular \
 wireshark traceroute \
 playonlinux winbind \
@@ -21,6 +21,7 @@ linphone \
 nmap \
 gnuplot \
 xournal \
+ffmpeg libav-tools \
 # freeplane libjortho-freeplane-java \
 # vym \
 
