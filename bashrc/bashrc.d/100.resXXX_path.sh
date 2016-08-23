@@ -7,8 +7,8 @@ export RESPYTHONPATH="/home/ccouturi/boulot/telecom.Bretagne/enseignement/RES/re
 #~ export RESPYTHONPATH="/home/ccouturi/ownCloud/res/r328"
 
 #~ export RESIMPLPATH="/home/ccouturi/boulot/telecom.Bretagne/enseignement/RES/res302/2016-spring/ressources/c2w-sibyl"
-export RESIMPLPATH="/home/ccouturi/boulot/telecom.Bretagne/enseignement/RES/res302/2016-spring/ressources/r328-s16-sibyl-solution"
-#export RESIMPLPATH="/home/ccouturi/boulot/telecom.Bretagne/enseignement/RES/res302/2016-spring/students-git/r328-s16-g30/sg1/sibyl"
+#~ export RESIMPLPATH="/home/ccouturi/boulot/telecom.Bretagne/enseignement/RES/res302/2016-spring/ressources/r328-s16-sibyl-solution"
+export RESIMPLPATH="/home/ccouturi/boulot/telecom.Bretagne/enseignement/RES/res302/2016-spring/ressources/c2w-impl-r328-s16/src"
 
 #~ export RESIMPLPATH="/home/ccouturi/boulot/telecom.Bretagne/enseignement/RES/res302/2016-spring/ressources/c2w-impl-r302-f15/src"
 #~ export RESIMPLPATH="/home/ccouturi/boulot/telecom.Bretagne/enseignement/RES/res302/2016-spring/students-git/r328-s16-g1001/sg1/sibyl"

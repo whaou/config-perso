@@ -7,6 +7,7 @@ subversion git git-doc git-gui gitk gitweb gitg \
 thunderbird thunderbird-locale-fr xul-ext-lightning thunderbird-gnome-support \
 libpython3-all-dev python3-pip \
 python-pip \
+python-argparse python3-argcomplete \
 texlive-full gedit-latex-plugin texlive-fonts-recommended latex-beamer  texlive-pictures texlive-latex-extra imagemagick biber \
 okular \
 wireshark traceroute \
