@@ -5,5 +5,6 @@ One way to keep it up to date is to clone the repository in a local directory an
  - or to append a source, import (or whatever) command at the end of the original config file to add the content of my own config
 Still under work... I'm still wondering about the correct way to automatise that!
 
+.
 
  
